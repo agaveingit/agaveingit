@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi
 
+I considered my self as a backend developer
 <!--
 **agaveingit/agaveingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
