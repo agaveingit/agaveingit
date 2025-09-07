@@ -1,6 +1,20 @@
-## Hi
+## My Profile
+```go
+package main
 
-I considered my self as a backend developer
+import "fmt"
+
+type Identities struct {
+Name string
+Age uint8
+Addres string
+}
+
+func main() {
+  me := Identities{Name: "Ageavava", Age: 17, Addres: "Central Kalimantan, Indonesia"}
+}
+```
+
 <!--
 **agaveingit/agaveingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
