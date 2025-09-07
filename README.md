@@ -11,7 +11,7 @@ type Identities struct {
 
 func create() {
 	ageavava := Identities{
-		Name:       "Broto",
+		Name:       "Ageavava",
 		Profession: []string{"Programmer", "Designer", "Photographer"},
 		Skills: map[string][]string{
 			"Programming": {"Python", "Go", "PHP"},
@@ -28,7 +28,7 @@ I'm a backend developer that in love with Python, Go, and PHP. I've work with fr
 
 ## Let's Connect
 - [Instagram](https://www.instagram.com/agung.fhd)
-- [LinkedIn](https://www.linkedin.com/in/agung-prabowo-145199331)
+<!-- [LinkedIn](https://www.linkedin.com/in/agung-prabowo-145199331)-->
 - [E-Mail](mailto:[holhokgorgok@gmail.com])
 <!--
 **agaveingit/agaveingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
