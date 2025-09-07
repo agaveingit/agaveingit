@@ -11,7 +11,9 @@ Addres string
 }
 
 func main() {
-  me := Identities{Name: "Ageavava", Age: 17, Addres: "Central Kalimantan, Indonesia"}
+  me := Identities{Name: "Ageavava",
+                   Age: 17,
+                   Addres: "Central Kalimantan, Indonesia"}
 }
 ```
 
