@@ -28,7 +28,7 @@ I'm a backend developer that in love with Python, Go, and PHP. I've work with fr
 
 I also planned to be a mobile apps developer.
 
-Currently I'm working on my App List that built with python in django.
+Currently I'm working on my [App List](https://github.com/agaveingit/django-myapps) that built with python in django. 
 
 ## Let's Connect
 - [Instagram](https://www.instagram.com/agung.fhd)
