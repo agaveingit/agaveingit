@@ -24,7 +24,11 @@ func create() {
 ```
 ## About Me
 
-I'm a backend developer that in love with Python, Go, and PHP. I've work with frameworks like Laravel, django, and flask and I use tools like git and docker to help me.
+I'm a backend developer that in love with Python, Go, and PHP. I've work with frameworks like Laravel, django, and flask and I use tools like git and docker to help me.  
+
+I also planned to be a mobile apps developer.
+
+Currently I'm working on my App List that built with python in django.
 
 ## Let's Connect
 - [Instagram](https://www.instagram.com/agung.fhd)
