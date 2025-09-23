@@ -22,15 +22,13 @@ func create() {
 	}
 }
 ```
-## About Me
+---
 
-I'm a backend developer that in love with Python, Go, and PHP. I've work with frameworks like Laravel, django, and flask and I use tools like git and docker to help me.  
+- I'm in love with Python, PHP, and Go (currently learning on this).
+- I use tools like git and docker to help me.
+- Want lo learn mobile apps development.
+---
 
-I also planned to be a mobile apps developer.
-
-Currently I'm working on my [App List](https://github.com/agaveingit/django-myapps) that built with python in django. 
-
-## Let's Connect
 - [Instagram](https://www.instagram.com/agung.fhd)
 <!-- [LinkedIn](https://www.linkedin.com/in/agung-prabowo-145199331)-->
 - [E-Mail](mailto:holhokgorgok@gmail.com)
