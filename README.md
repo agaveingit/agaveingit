@@ -31,7 +31,7 @@ func create() {
 
 - [Instagram](https://www.instagram.com/agung.fhd)
 <!-- [LinkedIn](https://www.linkedin.com/in/agung-prabowo-145199331)-->
-- [E-Mail](mailto:holhokgorgok@gmail.com?subject=Pertanyaan%20dari%20README)
+- [E-Mail](mailto:holhokgorgok@gmail.com)
 <!--
 **agaveingit/agaveingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
