@@ -24,7 +24,7 @@ func create() {
 ```
 ---
 
-- I'm in love with `Python`, `PHP`, and `Go` (currently learning on this).
+- I'm in love with `Python`, `PHP`, `C`, and `Go` (currently learning on this).
 - I use tools like `git` and `docker` to help me.
 - Want lo learn mobile apps development.
 ---
