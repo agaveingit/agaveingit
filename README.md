@@ -1,4 +1,14 @@
-## My Profile
+<h2 align="center">My Profile</h3>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=agaveingit&theme=synthwave-84" height="" alt="activity-graph graph"  />
+</div>
+
+###
+
 ```go
 package main
 
@@ -23,26 +33,20 @@ func create() {
 }
 ```
 ---
+<p align="left">I like to smash my keyboard until something comes out on the other side ✨</p>
 
-- I'm in love with `Python`, `PHP`, `C`, and `Go` (currently learning on this).
-- I use tools like `git` and `docker` to help me.
-- Want lo learn mobile apps development.
----
+###
 
-- [Instagram](https://www.instagram.com/agung.fhd)
-<!-- [LinkedIn](https://www.linkedin.com/in/agung-prabowo-145199331)-->
-- [E-Mail](mailto:holhokgorgok@gmail.com)
-<!--
-**agaveingit/agaveingit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
